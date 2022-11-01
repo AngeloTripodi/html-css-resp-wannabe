@@ -146,22 +146,13 @@ img {
         align-items: center;
     }
 
-    .lessons .col {
-        width: 100%;
-        
+    .lessons .col,
+    .steps .col,
+    .why-us .col-left,
+    .why-us .col-right{
+        width: 100%;        
     }
 
-    .steps .col {
-        width: 100%;
-    }
-
-    .why-us .col-left {
-        width: 100%;
-    }
-    
-    .why-us .col-right {
-        width: 100%;
-    }
 
     .col{
         padding-top: 3rem;
